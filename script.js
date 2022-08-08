@@ -1,1 +1,0 @@
-alert('Esta é uma página incrível!')
